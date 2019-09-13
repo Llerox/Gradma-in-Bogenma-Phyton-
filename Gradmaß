@@ -1,0 +1,5 @@
+from math import pi                   	                            #Zahl pi aus math importieren
+x = float(input('Gebe dein Gradmaß ein:'))                          #float=für Zahlen, input erstellen und schreiben
+
+y= x * pi/180                                                       #Gleichung für Bogenmaß
+print (F' Bogenmaß = {y}')                                          #alles printen
