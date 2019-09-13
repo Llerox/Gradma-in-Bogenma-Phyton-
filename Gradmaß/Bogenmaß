@@ -1,0 +1,5 @@
+from math import pi
+x = float(input('Gebe dein Gradmaß ein:'))
+
+y= x * pi/180
+print (F' Bogenmaß = {y}')
